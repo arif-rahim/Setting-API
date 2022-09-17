@@ -1,6 +1,6 @@
 # WP REST API
 
-A simple plugin to add [JSON Web Token ] WP REST API.
+A plugin to add [JSON Web Token ] WP REST API.
 
 For add setting 
 http://localhost/wp-json/jwt-auth/v1/token/settings_API 
